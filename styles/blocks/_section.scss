@@ -5,6 +5,10 @@
         overflow-x: hidden;
     }
 
+    &--hidden-x {
+        overflow-x: hidden;
+    }
+
     &__header {
         display: flex;
         align-items: center;
